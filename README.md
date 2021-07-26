@@ -23,7 +23,17 @@ Feign support for kitchen testing
 
 # Recipes
 
+* [feign::dell](#feigndell)
+* [feign::hp](#feignhp)
 * [feign::nfs-mount](#feignnfs-mount)
+
+## feign::dell
+
+Present as Dell hardware
+
+## feign::hp
+
+Present as HP hardware
 
 ## feign::nfs-mount
 
